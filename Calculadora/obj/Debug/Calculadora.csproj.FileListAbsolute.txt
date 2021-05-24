@@ -1,0 +1,10 @@
+C:\PEDRO GAONA\C#\3. Proyectos\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\PEDRO GAONA\C#\3. Proyectos\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\PEDRO GAONA\C#\3. Proyectos\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\PEDRO GAONA\C#\3. Proyectos\Calculadora\Calculadora\obj\Debug\Calculadora.csprojAssemblyReference.cache
+C:\PEDRO GAONA\C#\3. Proyectos\Calculadora\Calculadora\obj\Debug\Calculadora.Form1.resources
+C:\PEDRO GAONA\C#\3. Proyectos\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\PEDRO GAONA\C#\3. Proyectos\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
+C:\PEDRO GAONA\C#\3. Proyectos\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\PEDRO GAONA\C#\3. Proyectos\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\PEDRO GAONA\C#\3. Proyectos\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
